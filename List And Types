@@ -1,0 +1,26 @@
+
+HTML Lists are used to specify lists of information. All lists may contain one or more list elements. 
+There are three different types of HTML lists: Ordered List or Numbered List (ol) Unordered List or Bulleted List (ul)
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Anchor Tag
+        </title>
+    </head>
+    <body>
+    <ol type="a">
+        <li>Aniket</li>
+        <li>Rahul</li>
+        <li>Dipak</li>
+    </ol>
+    <ul>
+        <li>a</li>
+        <li>b</li>
+        <li>c</li>
+    </ul>
+  
+  
+    </body>
+</html>
