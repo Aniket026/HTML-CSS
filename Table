@@ -1,0 +1,75 @@
+
+<!doctype html>
+<html>
+<head>
+    <title>table</title>
+</head>
+    <body>
+    <table border="1" cellspacing="0" style="background-color:red">
+  <colgroup>
+    <col span="2" style="background-color: white">
+  </colgroup>
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Aniket Borawake</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Yashraj Darandale</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Akash Dokachuale</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Rushi Chobhe</td>
+    <td>India</td>
+  </tr>
+</table>
+<br><br>
+<h1>colspan</h1>
+<table  border="1" cellspacing="0" style="background-color:pink">
+  <tr>
+    <th colspan="2">Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>43</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>57</td>
+  </tr>
+</table >
+<br><br>
+<h1>rowspan</h1>
+<table border="1" cellspacing="0" style="background-color:pink">
+  <tr>
+    <th>Name</th>
+    <td>Jill</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Phone</th>
+    <td>555-1234</td>
+  </tr>
+  <tr>
+    <td>555-8745</td>
+</tr>
+</table>
+
+</body>
+
+
+</html>
